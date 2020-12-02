@@ -3,7 +3,7 @@ package practice;
 public class countNumWords {
 
 	/* QUESTION: 
-	 * Write a Java Program to count the number of words in a string. Return Integer 
+	 * Write a Java Program to count the number of words in a string
 	 * 
 	 * */
 	
