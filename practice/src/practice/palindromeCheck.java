@@ -1,5 +1,5 @@
 package practice;
-
+//palindrome challenge
 public class palindromeCheck {
 
 	public static void main(String[] args) {
